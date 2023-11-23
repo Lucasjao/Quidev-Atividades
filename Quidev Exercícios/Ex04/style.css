@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.destaque img{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.destaque {
+    width: 20%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.destaque h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.destaque p {
+    color: #666;
+    font-size: 16px;
+}
